@@ -9,3 +9,5 @@ for i in range (1,n+1):
     a.append(b)
 c = sum(a)/n
 print(c)
+
+print(test)
